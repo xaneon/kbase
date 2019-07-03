@@ -1,0 +1,9 @@
+.gitignore
+.idea/
+.ipynb_checkpoints/
+bigdata/
+ml/
+dot/
+knowledge/
+programming/
+statistics/
