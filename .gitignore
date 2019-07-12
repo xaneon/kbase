@@ -1,7 +1,6 @@
 .gitignore
 .idea/
 .ipynb_checkpoints/
-bigdata/
 dot/
 knowledge/
 programming/
